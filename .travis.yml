@@ -1,4 +1,4 @@
 language: java
 java:
 - 1.7
-script: javac com/xml/Test.java
+script: java com/xml/Test.java
