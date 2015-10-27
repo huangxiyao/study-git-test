@@ -1,13 +1,1 @@
-999999999999999
-333333333333333
-5555555555555
-777777777777
-999999999
-0000000
-oooooooooooooooooooooooooooooooooooo
-<<<<<<< HEAD
----------------------------
-=======
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-mmmmmmmmmmmmmmmmmmmmmmmmmmmm
->>>>>>> dev
+[![Build Status](https://drone.io/github.com/huangxiyao/study-git-test/status.png)](https://drone.io/github.com/huangxiyao/study-git-test/latest)
